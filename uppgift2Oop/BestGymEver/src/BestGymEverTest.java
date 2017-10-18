@@ -6,7 +6,7 @@ import junit.framework.TestCase;
 
 public class BestGymEverTest {
 
-	
+	//Git
 	
 	@Test
 	public void comparingArrayFromInputTest() throws IOException  {

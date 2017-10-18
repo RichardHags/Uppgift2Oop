@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 public class BestGymEver {
 
-	//ok
+	//ok.
 	public boolean comparingArrayFromInput(String[] arrayName, String inputFromUser) {
 		boolean check = false;
 		for (int i = 0; i < arrayName.length; i++) {
